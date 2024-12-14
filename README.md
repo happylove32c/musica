@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is version one. hoping to do even better stuff with this. 
 
-Currently, two official plugins are available:
+A music app that allows people to copy links from anywhere (YouTube, Spotify, even google and other music streaming sites) and listen to them for # FREE #
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+i have not been able to get all the links to work, just links from [Sound Helix]([URL](https://www.soundhelix.com/))
+
+here are some links below
+
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3
+
+ENJOY
